@@ -2,10 +2,14 @@ body {
     background-color: #f0f0f0;
 }
 h1 {
+    text-align: center;
     color: rgb(255,0, 0);
     font-size: 25px;
     font-family: 'Segoe UI';
-    background-color: black;
+    background-color: #DFF6FF;
+}
+h2{
+    color: #bc6cd6;
 }
 p {
     font-size: large;
@@ -19,7 +23,7 @@ img{
 }
 ol li {
     font-size: 30px;
-    color: blueviolet;
+    color: white;
 }
 ul li {
     color: green;
@@ -30,8 +34,19 @@ ul li {
 
 .enviar{
     border-radius: 5px;
-    background-color: rgb(0,0,255);
+    background-color: blue;
 }
 .etiqueta{
-    background-color: blue;
+    background-color: #fd0952;
+    color: #DFF6FF;
+}
+.registrar{
+    color: #FFF5E9;
+    border-radius: 10px;
+    background-color: black;
+}
+.iniciar_sesion{
+    color: #FFF5E9;
+    border-radius: 10px;
+    background-color: black;    
 }
